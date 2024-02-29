@@ -1,0 +1,10 @@
+LEEME
+	Para mayor entendimiento revise mi prueba en el siguiente orden
+	1. datos.sql: alli he creado las tablas y realizado la limpieza de los datos hasta recuperar el 100% de los datos
+	2. comandos SQLite.text: allí he puesto los comandos usados para importar los datos a las tablas
+	3. analisis.R: en este archivo he realizado las consultas en SQL y manipulado los datos para su interpretación
+	4. Distribución de los Prestadores de Salud en Colombia.pptx: la presentación mostrada en el video
+	5. La Distribución de los Servicios de Salud en Colombia.pdf: Documento en pdf de mi boletín generado
+	
+Ante cuaquier duda acerca de mi curriculo o de esta prueba por favor informarme a traves de mekarlos@gmail.com o WhatsApp 3125804741
+Gracias

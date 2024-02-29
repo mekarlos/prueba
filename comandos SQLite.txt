@@ -1,0 +1,10 @@
+-- crea la base de datos
+.open datos.db
+-- activa modo CSV para lectura de archivos
+.mode csv
+-- utiliza ';' como separador
+.separator ";"
+-- importa ambos archivos de excel a su tabla correspondiente previamente creada
+.import --skip 1 Municipios.csv municipios
+.import --skip 1 Prestadores.csv prestadores
+
